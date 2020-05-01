@@ -1,5 +1,5 @@
 # Glassdoor-Review-Analysis
 
+- clean Zip contains clean data of Glassdoor reviews
 
-Below github link was used for scrapping:
-https://github.com/sagark93/Text-Analytics/blob/master/glassdoor_scrapping.ipynb
+- raw zip file contains raw data file of Glassdoor reviews 
