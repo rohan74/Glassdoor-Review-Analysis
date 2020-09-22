@@ -15,6 +15,8 @@
 
    After preprocessing the data saved in clean zip file. 
 
-- Final_text: Used text mining techniques - polarity, vectorization, and similarity to find characteristic of firms
+- Final_Text: Used text mining techniques - polarity, vectorization, and similarity to find characteristic of firms
+
+- sentiment score of reviews and similarity score  
 
 - Link to the dashboard : https://public.tableau.com/profile/sagar.surendra.kulkarni#!/vizhome/Text_Analytics_Updated/Dashboard1
