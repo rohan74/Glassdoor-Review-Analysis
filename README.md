@@ -1,5 +1,7 @@
 # Glassdoor-Review-Analysis
 
-- clean Zip contains clean data of Glassdoor reviews
+- raw zip file contains raw text reviews of employees from different companies scrapped from of Glassdoor reviews using python and Selenium.  
 
-- raw zip file contains raw data file of Glassdoor reviews 
+- Clean zip file contains clean text data
+
+
