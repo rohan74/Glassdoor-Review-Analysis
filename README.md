@@ -1,6 +1,6 @@
 # Glassdoor-Review-Analysis
 
-- raw zip file contains raw text reviews of employees from different companies scrapped from Glassdoor reviews using python and Selenium.  
+- raw zip file contains raw text reviews of employees from different companies scrapped from Glassdoor using python and Selenium.  
 
 - Clean zip file : 
 
@@ -14,7 +14,5 @@
     6. Lemmatization using NLTK with POS tag
 
    After preprocessing the data saved in clean zip file. 
-
-
 
 - Link to the dashboard : https://public.tableau.com/profile/sagar.surendra.kulkarni#!/vizhome/Text_Analytics_Updated/Dashboard1
